@@ -12,4 +12,4 @@ while (number>0)
 }
 printf("the sum of numberes is %d", product);
     return 0;
-}
+} 
